@@ -56,9 +56,9 @@ Memasukan data penyewa, dengan data:
 - Menampilkan detail lengkap mobil yang disewa
 - Memfilter laporan transaksi
 
-### 5.Logout jika sudah selesai menggunakan aplikasi, admin dan pemilik dapat logout untuk mengamankan akun.
+### 5. Logout jika sudah selesai menggunakan aplikasi, admin dan pemilik dapat logout untuk mengamankan akun.
 
-### *Nama database E-Parkir:*
+### *Nama database Rentcar:*
 - *database.sqlite*
 
 *Kategori akun admin*
